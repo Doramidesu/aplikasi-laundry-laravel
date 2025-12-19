@@ -78,8 +78,8 @@ Daftar seluruh transaksi yang sudah tercatat.
 
     User::create([
     'name' => 'Kasir',
-    'email' => 'kasir@laundry.com',
-    'password' => bcrypt('kasir123')
+    'email' => 'email@kamu.com',
+    'password' => bcrypt('passwordkamu')
     ]);
     ```
 
