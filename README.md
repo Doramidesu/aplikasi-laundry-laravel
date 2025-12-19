@@ -19,6 +19,20 @@ Dibangun menggunakan framework **Laravel**.
 -   MySQL
 -   Vite
 
+## 📸 Screenshot Aplikasi
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Halaman Kasir
+
+![Kasir](screenshots/kasir.png)
+
+### Halaman List Transaksi
+
+![Daftar](screenshots/daftar.png)
+
 ## ⚙️ Cara Menjalankan Project
 
 1. Clone repository
